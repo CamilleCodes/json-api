@@ -1,0 +1,51 @@
+{ 
+    "allKata": [{
+        "id": "k1",
+        "name": "Taikyoku Sono Ichi",
+        "belt": "white",
+        "rank": "10th",
+        "grade": "kyu",
+        "series": "taikyoku"
+    },
+    {
+        "id": "k2",
+        "name": "Taikyoku Sono Ni",
+        "belt": "advanced white",
+        "rank": "9th",
+        "grade": "kyu",
+        "series": "taikyoku"
+    },
+    {
+        "id": "k3",
+        "name": "Taikyoku Sono San",
+        "belt": "blue",
+        "rank": "8th",
+        "grade": "kyu",
+        "series": "taikyoku"
+    }],
+
+    "allCurriculum": [{
+        "id": "c1",
+        "name": "Shuto Waza no Zenkutsu Dachi",
+        "belt": "white",
+        "rank": "10th",
+        "grade": "kyu",
+        "series": "shuto zenkutsu dachi"
+    },
+    {
+        "id": "c2",
+        "name": "Uke Waza no Zenkutsu Dachi",
+        "belt": "white",
+        "rank": "10th",
+        "grade": "kyu",
+        "series": "uke zenkutsu dachi"
+    },
+    {
+        "id": "c3",
+        "name": "Keri Waza no Zenkutsu Dachi",
+        "belt": "white",
+        "rank": "10th",
+        "grade": "kyu",
+        "series": "keri zenkutsu dachi"
+    }]
+}
